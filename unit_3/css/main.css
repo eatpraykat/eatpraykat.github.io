@@ -1,4 +1,7 @@
 body {
+	text-align: center;
+  	background: url("images/kathy_peter_hero.jpg");
+  	background-size: cover;
 	background-color: #ADAEFF;
 	color: #C2E2E8;
 }

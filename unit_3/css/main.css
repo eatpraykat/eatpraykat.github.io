@@ -1,7 +1,8 @@
 body {
   text-align: center;
-  background: url(images/kathy_peter_hero.jpg);
+  background-image: url(http://eatpraykat.github.io/unit_3/images/kathy_peter_hero.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
   color: #000;
   font-family: Helvetica;
 }

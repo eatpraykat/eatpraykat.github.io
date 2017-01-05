@@ -2,14 +2,12 @@ body {
 	text-align: center;
   	background: url("images/kathy_peter_hero.jpg");
   	background-size: cover;
-	background-color: #ADAEFF;
+	background-color: #FFF;
 	color: #C2E2E8;
+	font-family: Arial, sans-serif;
 }
-h1 {
+h2 {
 	font-weight: bold;
-}
-
-h3 {
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 }
@@ -17,7 +15,7 @@ h3 {
 	font-weight: bold;
 }
 p { 
-	font-family: "Courier New", monospace; 
+	font-family: Arial, sans-serif; 
 }
 .important {
 	font-size: 18px;

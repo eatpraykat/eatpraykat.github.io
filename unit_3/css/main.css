@@ -3,12 +3,12 @@ body {
   background-image: url(http://eatpraykat.github.io/unit_3/images/kathy_peter_hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  color: #ffffff;
 }
 
 h1 {
 	font-family: "Arial Black", Gadget, sans-serif;
 	text-transform: uppercase;
+	color: #C791C0;
 }
 hr {
   width: 200px;
@@ -22,6 +22,7 @@ h2 {
 }
 p {
   font-size: 16px;
+  color: #ffffff;
 }
 
 table {

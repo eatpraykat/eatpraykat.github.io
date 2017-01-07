@@ -4,7 +4,11 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   color: #ffffff;
-  font-family: Helvetica;
+}
+
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-transform: uppercase;
 }
 hr {
   width: 200px;

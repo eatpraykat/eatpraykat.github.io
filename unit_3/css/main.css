@@ -52,8 +52,8 @@ li {
 	font-size: 16px;
   color: #ffffff;
   font-weight: 500;
-	display:inline;
-	padding:0 30%;
+	text-align: center;
+  margin: auto;
 }
  nav {
 	font-size: 16px;

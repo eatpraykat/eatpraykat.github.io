@@ -47,3 +47,10 @@ p {
 table {
 	text-align: center;
 }
+li, nav {
+	font-size: 20px;
+  color: #ffffff;
+  font-weight: 600;
+	display:inline;
+	padding:0 30%;
+}

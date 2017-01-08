@@ -32,7 +32,7 @@ h2 {
 	text-shadow: 2px 2px 2px #fff;
 }
 p {
-  font-size: 16px;
+  font-size: 18px;
   color: #ffffff;
   font-weight: 500;
   padding-right: 100px;
@@ -51,13 +51,14 @@ table {
 li {
 	font-size: 16px;
   color: #ffffff;
-  font-weight: 500;
+  font-weight: 600;
 	text-align: center;
   margin: auto;
 }
  nav {
 	font-size: 16px;
   color: #ffffff;
-  font-weight: 500;
-  padding-right: 20px
+  font-weight: 600;
+  padding-right: 30px
+  padding-left: 30px;
 }

@@ -1,9 +1,10 @@
 body {
   text-align: center;
+  text-shadow: 3px 3px 0px #000;
   background-image: url(http://eatpraykat.github.io/unit_3/images/kathy_peter_hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 h1 {

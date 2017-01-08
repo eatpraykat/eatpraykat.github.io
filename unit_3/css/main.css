@@ -29,11 +29,12 @@ h2 {
 	text-transform: uppercase;
 	font-style: italic;
 	color: #CD8FAA;
+	text-shadow: 2px 2px 2px #fff;
 }
 p {
-  font-size: 20px;
+  font-size: 16px;
   color: #ffffff;
-  font-weight: 600;
+  font-weight: 500;
   padding-right: 100px;
   padding-left: 100px;
 }
@@ -47,10 +48,16 @@ p {
 table {
 	text-align: center;
 }
-li, nav {
-	font-size: 20px;
+li {
+	font-size: 16px;
   color: #ffffff;
-  font-weight: 600;
+  font-weight: 500;
 	display:inline;
 	padding:0 30%;
+}
+ nav {
+	font-size: 16px;
+  color: #ffffff;
+  font-weight: 500;
+  padding-right: 20px
 }

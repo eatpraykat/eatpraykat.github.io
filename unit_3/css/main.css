@@ -1,16 +1,23 @@
 body {
   text-align: center;
-  text-shadow: 3px 3px 0px #000;
   background-image: url(http://eatpraykat.github.io/unit_3/images/kathy_peter_hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+background-image {
+	linear-gradient(
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.2)
+    )
+}
+
 h1 {
 	font-family: "Arial Black", Gadget, sans-serif;
 	text-transform: uppercase;
 	color: #C791C0;
+	 text-shadow: 3px 3px 0px #fff;
 }
 hr {
   width: 200px;
@@ -28,6 +35,7 @@ h2 {
     padding-left: 50px;
 }
 p {
+  background: rgba(0, 0, 0, 0.5);
   font-size: 16px;
   color: #ffffff;
   font-style: bold;

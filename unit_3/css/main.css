@@ -59,5 +59,6 @@ li {
 	font-size: 16px;
   color: #ffffff;
   font-weight: 600;
-  display: inline-block;
+  display: inline;
+  margin-right: 50px;
 }

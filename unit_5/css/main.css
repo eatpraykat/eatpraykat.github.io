@@ -19,6 +19,29 @@ header {
   padding: 20px;
 }  
 
+nav {
+  background-color: #E8C66A;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 20px; 
+}
+
+.nav a { 
+  padding:1em; }
+
+section {
+  background-color: #FFE2B8;
+  border: 1px black solid;
+  padding: 20px;
+} 
+
+footer {
+  background-color: #FF957E;
+  border: 1px black solid;
+  padding: 20px;
+}
+
 h1 {
 	font-family: 'Playfair Display SC', serif;
 	text-transform: uppercase;
@@ -64,11 +87,3 @@ li {
 	text-align: center;
   margin: auto;
 }
-nav {
-	font-size: 16px;
-  color: #ffffff;
-  font-weight: 600; 
-}
-
-.nav a { 
-	padding:1em; }

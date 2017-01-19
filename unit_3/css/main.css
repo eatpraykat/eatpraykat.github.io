@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+
 body {
   text-align: center;
   background-image: url(../images/kathy_peter_hero.jpg);
@@ -12,7 +14,7 @@ body {
   }
 
 h1 {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Mystery Quest', cursive;
 	text-transform: uppercase;
 	color: #C791C0;
 	 text-shadow: 3px 3px 0px #fff;

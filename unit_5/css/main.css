@@ -43,7 +43,7 @@ footer {
 }
 
 h1 {
-	font-family: 'Playfair Display SC', serif;
+	font-family: 'Rokkitt', serif;
 	text-transform: uppercase;
 	color: #C791C0;
 	 text-shadow: 3px 3px 0px #fff;
@@ -86,4 +86,18 @@ ul {
   text-align: center;
   font-size: 16px;
   color: #ffffff;
+}
+a:link {
+    text-decoration: none;
+    color: #C07AC2;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #2A543B;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
 }

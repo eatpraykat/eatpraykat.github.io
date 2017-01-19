@@ -6,6 +6,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.5);
+  font-size: 20px;
 }
 
 .bg-img 
@@ -24,11 +25,11 @@ nav {
   font-size: 16px;
   color: #ffffff;
   font-weight: 600;
-  padding: 20px; 
+  padding: 10px; 
 }
 
 .nav a { 
-  padding:1em; }
+  padding: 10px; }
 
 section {
   background-color: #FFE2B8;
@@ -41,9 +42,11 @@ article {
 }
 
 footer {
+  font-family: 'Rokkitt', serif;
   background-color: #FF957E;
   border: 1px black solid;
   padding: 20px;
+  font-size: .75em;
 }
 
 h1 {
@@ -51,6 +54,7 @@ h1 {
 	text-transform: uppercase;
 	color: #C791C0;
 	 text-shadow: 3px 3px 0px #fff;
+   font-size: 1.5em;
 }
 hr {
   width: 200px;
@@ -67,7 +71,7 @@ h2 {
 }
 p {
   font-family: 'Oxygen', sans-serif;
-  font-size: 18px;
+  font-size: .75em;
   color: #ffffff;
   font-weight: 500;
   padding-right: 100px;
@@ -88,7 +92,7 @@ ul {
   margin: 0 auto;
   padding: 0;
   text-align: center;
-  font-size: 16px;
+  font-size: .75em;
   color: #ffffff;
 }
 a:link {

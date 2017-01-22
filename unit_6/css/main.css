@@ -109,3 +109,15 @@ a:hover {
     text-decoration: none;
     color: #FFFFFF;
 }
+
+div{
+  width: 400px;
+  position: relative;
+  margin: auto;
+  display: inline-block  
+}
+
+img{
+  display: block;
+  width:100%;
+}

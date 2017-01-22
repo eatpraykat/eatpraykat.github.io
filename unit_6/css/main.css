@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:700|Playfair+Display+SC|Rokkitt');
+
+body {
+  text-align: center;
+  background-image: url(../images/kathy_peter_hero.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+}
+
+.bg-img 
+	{background-image: linear-gradient (to bottom right,#002f4b,#dc4225);
+	opacity: .6; 
+  }
+
+header {
+  background-color: #FFED74;
+  border: 1px black solid;
+  padding: 20px;
+}  
+
+nav {
+  background-color: #E8C66A;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 10px; 
+}
+
+.nav a { 
+  padding: 10px; }
+
+section {
+  background-color: #FFE2B8;
+  border: 1px black solid;
+  padding: 20px;
+} 
+
+article {
+  padding: 10px;
+}
+
+footer {
+  font-family: 'Rokkitt', serif;
+  background-color: #FF957E;
+  border: 1px black solid;
+  padding: 20px;
+  font-size: .75em;
+}
+
+h1 {
+	font-family: 'Rokkitt', serif;
+	text-transform: uppercase;
+	color: #C791C0;
+	 text-shadow: 3px 3px 0px #fff;
+   font-size: 2em;
+}
+hr {
+  width: 200px;
+}
+#first {
+	width: 900px;
+}
+
+h2 {
+  font-family: 'Rokkitt', serif;
+	text-transform: uppercase;
+	color: #CD8FAA;
+	text-shadow: 2px 2px 2px #fff;
+}
+p {
+  font-family: 'Oxygen', sans-serif;
+  font-size: .75em;
+  color: #ffffff;
+  font-weight: 500;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+#padding {
+	padding-right: 100px;
+  padding-left: 100px;
+  }  
+#text {
+	 background: rgba(0, 0, 0, 0.1);
+}
+table {
+	text-align: center;
+}
+ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  font-size: .75em;
+  color: #ffffff;
+}
+a:link {
+    text-decoration: none;
+    color: #C07AC2;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #2A543B;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}

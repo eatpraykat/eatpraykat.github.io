@@ -15,15 +15,13 @@ body {
   }
 
 header {
-  background-color: #FFED74;
-  border: 1px black solid;
+  background-color: #FFDDDD;
   padding: 20px;
 }  
 
 nav {
   background-color: #E8C66A;
   font-size: 16px;
-  color: #ffffff;
   font-weight: 600;
   padding: 10px; 
 }
@@ -32,7 +30,7 @@ nav {
   padding: 10px; }
 
 section {
-  background-color: #FFE2B8;
+  background-color: #FFDDDD;
   border: 1px black solid;
   padding: 20px;
 } 
@@ -98,12 +96,12 @@ ul {
 
 a:link {
     text-decoration: none;
-    color: #C07AC2;
+    color: #195E33;
 }
 
 a:visited {
     text-decoration: none;
-    color: #2A543B;
+    color: #F05974;
 }
 
 a:hover {
@@ -125,10 +123,9 @@ div{
   margin: 0;
 }
 
-.column2 {
-  float: left;
-  width: 300px;
-  padding: 10px;
+.hero {
+  float: none;
+  width: 800px;
   margin: 0;
 }
 

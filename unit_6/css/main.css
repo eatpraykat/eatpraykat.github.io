@@ -135,6 +135,12 @@ div{
   height: 0;
 }
 
+#container {
+  margin: 0 auto;
+  width: 1000px;
+  background-color: #ffc9c9;
+}
+
 img{
   display: block;
   width:100%;

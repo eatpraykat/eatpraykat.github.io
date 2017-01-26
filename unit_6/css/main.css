@@ -112,7 +112,7 @@ a:hover {
 }
 
 div{
-  width: 400px;
+  width: 1000px;
   position: relative;
   margin: auto;
   display: inline-block  
@@ -120,8 +120,7 @@ div{
 
 .column {
   float: left;
-  width: 260px;
-    height: 300px;
+  width: 30%;
   padding: 20px;
   margin: 0;
 }
@@ -137,7 +136,7 @@ div{
 
 #container {
   margin: 0 auto;
-  width: 1000px;
+  width: 9000px;
   background-color: #ffc9c9;
 }
 

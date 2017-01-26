@@ -120,8 +120,15 @@ div{
 
 .column {
   float: left;
-  width: 30%;
-  padding: 20px;
+  width: 300px;
+  padding: 10px;
+  margin: 0;
+}
+
+.column2 {
+  float: left;
+  width: 300px;
+  padding: 10px;
   margin: 0;
 }
 
@@ -134,11 +141,6 @@ div{
   height: 0;
 }
 
-#container {
-  margin: 0 auto;
-  width: 9000px;
-  background-color: #ffc9c9;
-}
 
 img{
   display: block;

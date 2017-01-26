@@ -174,22 +174,3 @@ img{
   display: block;
   width:100%;
 }
-
-#container {
-  width: 800px;
-  position: relative;
-}
-#image {
-  position: absolute;
-  left: 0;
-  top: 0;
-}
-#text {
-  z-index: 100;
-  position: absolute;
-  color: white;
-  font-size: 16px;
-  font-weight: bold;
-  left: 150px;
-  top: 350px;
-}

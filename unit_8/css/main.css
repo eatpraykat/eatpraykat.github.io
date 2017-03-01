@@ -56,6 +56,17 @@ footer {
   font-size: .75em;
 }
 
+@media only screen and (max-width: 800px) {
+nav {
+float: none;  
+}
+  Section {
+    background: #222222;
+    color: white;
+    overflow: auto;
+  }
+}
+
 h1 {
 	font-family: 'Rokkitt', serif;
 	text-transform: uppercase;

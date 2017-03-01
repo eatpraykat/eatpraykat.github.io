@@ -61,10 +61,15 @@ nav {
 float: none;  
 }
   Section {
-    background: #222222;
+    background: #FF69B4;
     color: white;
     overflow: auto;
   }
+#pic {
+    width: 30%;
+    height: auto;
+    /*height: 30em;*/
+}
 }
 
 h1 {

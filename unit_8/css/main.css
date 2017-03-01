@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:700|Playfair+Display+SC|Rokkitt');
+
+body {
+    text-align: center;
+    background-color: #FFDDDD;
+    font-size: 20px;
+    background-repeat: no-repeat;
+}
+
+.bg-img {  
+  background-image: url(../images/kathy_peter_hero.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5);
+  }
+
+.darken {
+  background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/shoes.jpg);
+}
+
+header {
+  background-color: #FFDDDD;
+  padding: 5%;
+}  
+
+nav {
+  background-color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 1%; 
+}
+
+.nav a { 
+  padding: 1%; }
+
+section {
+  background-color: #FFDDDD;
+  border: 1px black solid;
+  padding: 5%;
+} 
+
+article {
+  padding: 1%;
+}
+
+footer {
+  font-family: 'Rokkitt', serif;
+  background-color: #FF957E;
+  border: 1px black solid;
+  padding: 4%;
+  font-size: .75em;
+}
+
+h1 {
+	font-family: 'Rokkitt', serif;
+	text-transform: uppercase;
+	color: #C791C0;
+	 text-shadow: 3px 3px 0px #fff;
+   font-size: 2em;
+}
+hr {
+  width: 20%;
+}
+#first {
+	width: 90%;
+}
+
+h2 {
+  font-family: 'Rokkitt', serif;
+	text-transform: uppercase;
+	color: #CD8FAA;
+	text-shadow: 2px 2px 2px #fff;
+}
+p {
+  font-family: 'Oxygen', sans-serif;
+  font-size: .75em;
+  color: #ffffff;
+  font-weight: 500;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.texthover {
+  display: none;  
+  height:100%;
+  width:100%;
+  background-color:rgba(0,0,0,0.3);
+  position: absolute;
+  top:0;
+  left:0;
+  font-family: sans-serif;
+  text-align: center;
+  color: #FFFFFF;
+  font-size:.75em;
+  padding:30% 0 0;
+  margin:0;
+}
+
+div:hover > p{
+  display:block;
+
+}
+
+#padding {
+	padding-right: 10%;
+  padding-left: 10%;
+  }  
+#text {
+	 background: rgba(0, 0, 0, 0.1);
+}
+table {
+	text-align: center;
+}
+ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  font-size: .75em;
+  color: #ffffff;
+}
+
+a:link {
+    text-decoration: none;
+    color: #195E33;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #F05974;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+div{
+  width: 1000px;
+  position: relative;
+  margin: auto;
+  display: inline-block  
+}
+
+.column {
+  float: left;
+  width: 30%;
+  padding: 1%;
+  margin: 0;
+}
+
+.column2 {
+  float: left;
+  width: 30%;
+  padding: 1%;
+  margin: 0;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+img{
+  display: block;
+  width:100%;
+}

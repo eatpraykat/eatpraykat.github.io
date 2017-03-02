@@ -72,6 +72,12 @@ float: none;
 }
 }
 
+#description {
+    width: 30%;
+    margin: 2em;
+    max-width: 100%;
+}
+
 h1 {
 	font-family: 'Rokkitt', serif;
 	text-transform: uppercase;
